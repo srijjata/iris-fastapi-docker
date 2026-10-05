@@ -1,0 +1,10 @@
+scikit-learn
+pyngrok
+
+#ML API
+fastapi
+uvicorn
+
+gunicorn
+pydantic
+numpy
